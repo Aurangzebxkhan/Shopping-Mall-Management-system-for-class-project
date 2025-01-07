@@ -1,6 +1,6 @@
 
- <h1 background-coulor:ligtblue;>Comprehensive Shopping Mall Guide & Manage User Calculations</h1>
-<h1 color:navy; margin-left:20px;> Grounp member is   Aurangzeb  and Umair Kalam</h1>
+ <h1>Comprehensive Shopping Mall Guide & Manage User Calculations</h1>
+<h1> Grounp member is   Aurangzeb  and Umair Kalam</h1>
 <h1>1. Introduction:</h1>
 <p>This project aims to enhance the shopping experience for visitors to the mall by providing comprehensive and interactive information about the mall's facilities, features, and ongoing offers. By integrating expense management and interactive floor selection, the project aims to deliver a seamless and enjoyable shopping journey.</p>
 <h1>Key Features:</h1>
