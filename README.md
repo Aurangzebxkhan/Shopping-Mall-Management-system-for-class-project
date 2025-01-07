@@ -2,14 +2,18 @@
  <h1>Comprehensive Shopping Mall Guide & Manage User Calculations</h1>
 <h1> Grounp member is   Aurangzeb  and Umair Kalam</h1>
 <h1>1. Introduction:</h1>
-<p>This project aims to enhance the shopping experience for visitors to the mall by providing comprehensive and interactive information about the mall's facilities, features, and ongoing offers. By integrating expense management and interactive floor selection, the project aims to deliver a seamless and enjoyable shopping journey.</p>
+ <h3>
+ <p>This project aims to enhance the shopping experience for visitors to the mall by providing comprehensive and interactive information about the mall's facilities, features, and ongoing offers. By integrating expense management and interactive floor selection, the project aims to deliver a seamless and enjoyable shopping journey. </p>
+</h3>
 <h1>Key Features:</h1>
 
+<h3>
 <li>Provide users with detailed information about the mall.</li>
 <li>Highlight facilities, features, and offers to enhance the shopping experience.</li>
 <li>Manage all calculations and expenses, including parking, shopping, and purchases.</li>
 <li>Display a menu for users to select the floor they want to visit and show counters (shops, play area, grocery store).</li>
-<li>Menu for shops on each floor.</li>
+</h3>
+ <h3><li>Menu for shops on each floor.</li></h3>
 <h1>Interactive Features:</h1>
 <li>Users can play games to earn discounts.</li>
 <li>Special offers for purchases above a certain limit.</li>
