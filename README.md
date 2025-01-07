@@ -1,74 +1,96 @@
+# Comprehensive Shopping Mall Guide & Manage User Calculations
 
- <h1>Comprehensive Shopping Mall Guide & Manage User Calculations</h1>
-<h1> Grounp member is   Aurangzeb  and Umair Kalam</h1>
-<h1>1. Introduction:</h1>
- <h3>
- <p>This project aims to enhance the shopping experience for visitors to the mall by providing comprehensive and interactive information about the mall's facilities, features, and ongoing offers. By integrating expense management and interactive floor selection, the project aims to deliver a seamless and enjoyable shopping journey. </p>
-</h3>
-<h1>Key Features:</h1>
+## Group Members:
+- **Aurangzeb**
+- **Umair Kalam**
 
-<h3>
-<li>Provide users with detailed information about the mall.</li>
-<li>Highlight facilities, features, and offers to enhance the shopping experience.</li>
-<li>Manage all calculations and expenses, including parking, shopping, and purchases.</li>
-<li>Display a menu for users to select the floor they want to visit and show counters (shops, play area, grocery store).</li>
-</h3>
- <h3><li>Menu for shops on each floor.</li></h3>
-<h1>Interactive Features:</h1>
-<li>Users can play games to earn discounts.</li>
-<li>Special offers for purchases above a certain limit.</li>
-<h1>2. Problem Statement:</h1>
-<li>First-time visitors may not know about the mall.</li>
-<li>Users may be unaware of special offers.</li>
-<li>Users need a way to manage payments and check their account balance.</li>
-<li>Users need to know the facilities available on different floors.</li>
-<h1>3. Tools & Technologies:</h1>
-<li>Visual Studio</li>
-<li>GitHub</li>
-<h1>4. Technical Details:</h1>
-<li>This project is based on simple C++.</li>
-<li>Arrays will be used for storing values.</li>
-<li>Loops will be used for repetition of process.</li>
-<li>Functions will be used for calculations multiple outputs.</li>
-<li>Switch statements will help users to select different options.</li>
-        
+---
 
-<h1>5. Objectives:</h1>
-<li>Provide detailed information about the shopping mall, including facilities, features, and offers.</li>
-<li>Help users manage their expenses by calculating costs related to parking, shopping, and purchases.</li>
-<li>Offer an interactive floor selection feature, allowing users to navigate the mall effectively.</li>
-<li>Include engaging features like games and special offers to enhance user satisfaction.</li>
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Key Features](#key-features)
+3. [Problem Statement](#problem-statement)
+4. [Tools & Technologies](#tools--technologies)
+5. [Technical Details](#technical-details)
+6. [Objectives](#objectives)
+7. [Scope](#scope)
+8. [Methodology](#methodology--purpose)
+9. [Time for Completion](#time-for-completion)
+10. [Steps](#steps)
+11. [Conclusion](#conclusion)
 
+---
 
-        
-<h1>6. Scope:</h1>
+## 1. Introduction
+This project aims to enhance the shopping experience for visitors by providing comprehensive information about mall facilities, features, and offers. With integrated expense management and floor navigation, it promises a seamless and enjoyable shopping journey.
 
-<li><strong>Information Hub:</strong> Detailed information about the mall's shops, facilities, and ongoing promotions.</li>
-<li><strong>Expense Management:</strong> Tools for calculating expenses related to parking, shopping, and purchases.</li>
-<li><strong>Interactive Floor Selection:</strong> A menu for selecting floors and viewing counters (shops, play areas, grocery stores).</li>
-<li><strong>Engagement Features:</strong> Games for earning discounts and special offers for purchases above a certain limit.</li>
-<h1>7. Methodology / Purpose:</h1>
+---
 
-<li>Develop user-friendly interfaces for information display and navigation.</li>
-<li>Implement expense management tools with easy-to-use features.</li>
-<li>Create interactive floor selection menus.</li>
-<li>Integrate games and special offer functionalities.</li>
-<li>Analyze existing shopping mall guides and applications for best practices.</li>
+## 2. Key Features
+- Detailed information about the mall.
+- Highlighting facilities, features, and special offers.
+- Managing all calculations and expenses (e.g., parking, shopping).
+- Interactive floor selection menu showing available counters.
 
+---
 
-        
-<h1>8. Time for Completion:</h1>
-<p>Two weeks.</p>
-<h3>Steps:</h3>
+## 3. Problem Statement
+- First-time visitors may struggle to navigate the mall.
+- Users might miss out on special offers.
+- Lack of tools to manage expenses and balances.
+- Limited knowledge of facilities on different floors.
 
-<li>Surveys and gather user requirements.</li>
-<li>Analyze existing shopping mall guides and applications for best practices.</li>
-<li>Research technologies and tools required (e.g., Visual Studio, GitHub).</li>
+---
 
+## 4. Tools & Technologies
+- **Development Environment:** Visual Studio
+- **Version Control:** GitHub
 
-<h1>9. Conclusion:</h1>
-<p>This project aims to revolutionize the shopping experience by providing users with all the necessary tools to navigate, manage expenses, and enjoy their time at the mall. With a combination of detailed information, interactive features, and engaging elements, the comprehensive shopping mall guide will enhance user satisfaction and make shopping a delightful experience.</p>
+---
 
+## 5. Technical Details
+- **Programming Language:** C++
+- **Key Concepts:** Arrays, loops, functions, and switch statements.
 
-<p> 2025 Comprehensive Shopping Mall Guide & Manage User Calculations</p>
+---
 
+## 6. Objectives
+- Provide detailed mall information, including offers and facilities.
+- Assist users in managing expenses like parking and shopping.
+- Offer interactive features like games and special offers.
+
+---
+
+## 7. Scope
+- **Information Hub:** Comprehensive details on shops, facilities, and promotions.
+- **Expense Management:** Easy-to-use expense calculation tools.
+- **Interactive Navigation:** Floor selection menu.
+- **Engagement Features:** Discount games and special offers.
+
+---
+
+## 8. Methodology / Purpose
+- Develop intuitive interfaces.
+- Implement user-friendly expense management tools.
+- Integrate games and special offer features.
+
+---
+
+## 9. Time for Completion
+Two weeks.
+
+---
+
+## 10. Steps
+1. Conduct surveys and gather requirements.
+2. Research existing shopping mall guides.
+3. Develop and test features using Visual Studio and GitHub.
+
+---
+
+## 11. Conclusion
+This project seeks to revolutionize the shopping experience by combining information, expense management, and interactive features. With engaging tools and user-friendly design, it aims to make shopping an enjoyable and seamless journey.
+
+---
+
+© 2025 Comprehensive Shopping Mall Guide & Manage User Calculations
