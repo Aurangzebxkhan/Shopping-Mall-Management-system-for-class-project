@@ -5,12 +5,12 @@
 using namespace std;
 
 
-// Forward declarations
+//This is used for Forward declarations
 void firstFloor();
 void secondFloor();
 void thirdFloor();
 
-// Base structure for items
+// Base structure for item
 struct Item {
     string name;
     float price;
