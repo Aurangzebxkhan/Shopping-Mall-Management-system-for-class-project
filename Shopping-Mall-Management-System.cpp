@@ -10,7 +10,7 @@ void firstFloor();
 void secondFloor();
 void thirdFloor();
 
-// Base structure for item
+// This structure is used for base items
 struct Item {
     string name;
     float price;
